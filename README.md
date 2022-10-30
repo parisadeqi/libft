@@ -1,6 +1,5 @@
 # libft
-INTORDUCTION
-libft is the first project in CODAM which we should make our own library in C.
+libft is the first project in CODAM where we need to recode a few functions of the C standard library as well as some other utility functions that's used during the whole cursus.
 
 ## Build
 Run this command to build the library excluding the bonus functions:
